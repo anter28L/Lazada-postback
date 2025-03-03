@@ -5,3 +5,4 @@ node_modules/
 AppData/
 .DS_Store
 Thumbs.db
+.next/
