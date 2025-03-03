@@ -1,0 +1,7 @@
+# Ignore system files and unnecessary folders
+*.log
+*.bin
+node_modules/
+AppData/
+.DS_Store
+Thumbs.db

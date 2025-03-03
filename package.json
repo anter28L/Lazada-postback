@@ -1,0 +1,27 @@
+{
+  "name": "lazada-postback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anter28L/lazada-postback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anter28L/lazada-postback/issues"
+  },
+  "homepage": "https://github.com/anter28L/lazada-postback#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
